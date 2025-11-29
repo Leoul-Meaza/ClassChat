@@ -78,14 +78,6 @@ All messages are JSON objects with four fields:
   "text": "message content"
 }
 
-## Project Structure
-
-.
-├── client.py
-├── server.py
-└── docs/
-    └── project-report.pdf
-
 ## License
 
 MIT
